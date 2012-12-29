@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Octopress | Josh's Github blog]]></title>
-  <link href="http://jskaroff.github.com/blog/categories/octopress/atom.xml" rel="self"/>
+  <title><![CDATA[Category: git | Josh's Github blog]]></title>
+  <link href="http://jskaroff.github.com/blog/categories/git/atom.xml" rel="self"/>
   <link href="http://jskaroff.github.com/"/>
   <updated>2012-12-29T12:21:45-05:00</updated>
   <id>http://jskaroff.github.com/</id>
@@ -22,15 +22,6 @@
 
 <p>Of course, if you didn't <div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>git push origin source</span></code></pre></td></tr></table></div></figure></notextile></div> from the original machine, it's hard to update the blog!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A little taste of Octopress]]></title>
-    <link href="http://jskaroff.github.com/blog/2012/12/28/a-little-taste-of-octopress/"/>
-    <updated>2012-12-28T12:57:00-05:00</updated>
-    <id>http://jskaroff.github.com/blog/2012/12/28/a-little-taste-of-octopress</id>
-    <content type="html"><![CDATA[<p>Never one to let the newest trend in web tech to pass me by, I setup this site as a little test of Jekyll, Octopress, and git-based publishing. Don't expect to see a whole lot here, but it just might be interesting.</p>
 ]]></content>
   </entry>
   
